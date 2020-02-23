@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', ;
+}
+.carousel-indicators .active{
+    background-color: #FF9C35;
+}
+.carousel-indicators .inactive{
+    background-color: #CECECE;
+}
+h6{
+    color: #FF9D00;
+    font-size: 22px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 18px;
+}
+h3{
+    font-size: 30px;
+}
+.card-deck{
+    height: 500px;
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    border: none;
+     margin-left: 24%;
+}
+.laptop{
+    margin-top: 220px;
+}
